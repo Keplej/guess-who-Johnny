@@ -1,7 +1,7 @@
 var people = [
   {
-    name: 'Dev',
-    githubUsername: 'devjanaprime'
+    name: 'Johnny',
+    githubUsername: 'Keplej'
   },
   {
     name: 'Dane',
